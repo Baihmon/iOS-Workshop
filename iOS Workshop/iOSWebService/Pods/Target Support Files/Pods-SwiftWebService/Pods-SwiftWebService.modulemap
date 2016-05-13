@@ -1,0 +1,6 @@
+framework module Pods_SwiftWebService {
+  umbrella header "Pods-SwiftWebService-umbrella.h"
+
+  export *
+  module * { export * }
+}
